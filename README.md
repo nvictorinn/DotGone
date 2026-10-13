@@ -11,7 +11,15 @@ DotGone automatically removes the hidden files macOS leaves on USB sticks and FA
 
 **[Download DotGone](https://github.com/nvictorinn/DotGone/releases/latest/download/DotGone.dmg)** — requires macOS 26.2 or later.
 
-Open the disk image and drag DotGone to Applications. DotGone is signed with a Developer ID and notarized by Apple.
+Open the disk image and double-click DotGone: it moves itself to Applications, replacing an older copy if there is one. DotGone is signed with a Developer ID and notarized by Apple.
+
+## Privacy
+
+DotGone collects nothing: everything stays on your Mac. See the [privacy policy](PRIVACY.md).
+
+## License
+
+DotGone is free to use. See the [license](LICENSE).
 
 ## Releases
 
