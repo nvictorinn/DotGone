@@ -1,0 +1,36 @@
+DotGone — License Agreement
+
+Copyright (c) 2026 Nathan Victorin. All rights reserved.
+
+DotGone (the "Software") is free of charge. By installing or using it, you agree to these terms.
+
+1. License. You may download, install and use the Software on any number of Macs that you own
+   or control, for personal or professional purposes, free of charge.
+
+2. Restrictions. You may not, without prior written permission: redistribute, sell, rent or
+   sublicense the Software; modify it, or decompile, disassemble or reverse engineer it, except
+   to the extent that applicable law expressly permits it. The Software is distributed only from
+   https://github.com/nvictorinn/DotGone.
+
+3. Ownership. The Software is licensed, not sold. All rights not expressly granted are reserved.
+
+4. What the Software does. DotGone deletes files that macOS creates on FAT32 and exFAT drives
+   (such as "._*" AppleDouble files and ".DS_Store"), and any files matching custom patterns you
+   add. Keep backups of important data.
+
+5. No warranty. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+   PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+
+6. Limitation of liability. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL
+   THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING LOSS OF DATA, ARISING
+   FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR ITS USE. Nothing in these terms limits
+   rights that cannot be limited under the law of your country.
+
+7. Termination. This license ends automatically if you breach these terms. You must then delete
+   the Software.
+
+8. Third-party software. The Software includes Sparkle (https://sparkle-project.org), used under
+   its own license, reproduced in THIRD-PARTY-NOTICES.md at https://github.com/nvictorinn/DotGone.
+
+9. Governing law. These terms are governed by French law.
